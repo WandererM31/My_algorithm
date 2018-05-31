@@ -1,4 +1,4 @@
-//2018.5.29
+//2018.5.29Queue
 //系统队列使用方法：常用add,offer,peek,poll
 package class_2_Stack_and_Queue;
 
