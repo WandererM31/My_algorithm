@@ -5,7 +5,7 @@
 右边。
 要求额外空间复杂度O(1)， 时间复杂度O(N)
  */
-package class_1;
+package class_1_Sort;
 
 public class Code4_NetherlandsFlag {
 

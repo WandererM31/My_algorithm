@@ -1,5 +1,5 @@
 //2018.5.11ц╟ещеепР
-package class_1;
+package class_1_Sort;
 //import java.util.Arrays;
 public class Code1_BubbleSort {
 

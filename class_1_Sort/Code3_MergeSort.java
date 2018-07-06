@@ -1,7 +1,7 @@
 //2018.5.17归并排序
 //用递归的方法把一个数组分成两部分，使其左有序右有序，再用外排的方式使整体有序（新建一数组有序再拷贝回原数组）
 //复杂度：
-package class_1;
+package class_1_Sort;
 
 public class Code3_MergeSort {
 	

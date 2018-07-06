@@ -12,7 +12,7 @@
  * 
  */
 
-package class_1;
+package class_1_Sort;
 
 public class Code4_QuickSort {
 

@@ -3,7 +3,7 @@
 //递归实现：系统堆栈实现
 //master公式用法总结：
 
-package class_1;
+package class_1_Sort;
 
 public class Code2_Recursion {
 	
